@@ -10,7 +10,8 @@ Exprerimento realizado como desafio de aprendizagem no Bootcamp Microsoft Azure 
 - [2. Espaço de Trabalho ](#2-create-workspace)
 - [3. Automated ML](#3-automated-ml)
 - [4. Task type & data](#4-task-type--data) 
-- [5. Deploy ](#5-deploy) 
+- [5. Deploy ](#5-deploy)
+- [6. Resumo](#6-resumo)
 
 <br>
 
